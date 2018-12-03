@@ -9,4 +9,4 @@
  
  # About
  
- 
+ This project is an analysis about the ENEM (Exame Nacional do Ensino Médio), where we present data about the system.
